@@ -1,0 +1,77 @@
+10
+
+dir
+145
+http://svn.dprg.org/repos/mod_virgule/trunk/sample_db
+http://svn.dprg.org/repos/mod_virgule
+
+
+
+2008-01-10T17:33:23.453865Z
+137
+rsr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2331e4e6-6c23-0410-801c-938607055b09
+
+site
+dir
+
+config.xml
+file
+
+
+
+
+2010-08-10T04:29:37.000000Z
+60f7350986e51374a5dd4fac03c24166
+2008-01-10T17:33:23.453865Z
+137
+rsr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4101
+
+images
+dir
+
+css
+dir
+
+data
+dir
+
+templates
+dir
+

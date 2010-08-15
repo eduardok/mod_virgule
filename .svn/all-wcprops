@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/mod_virgule/!svn/ver/145/trunk
+END
+hashtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/mod_virgule/!svn/ver/16/trunk/hashtable.h
+END
+style.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/144/trunk/style.c
+END
+xml_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/28/trunk/xml_util.h
+END
+db_xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/139/trunk/db_xml.c
+END
+style.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/106/trunk/style.h
+END
+tmetric.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/139/trunk/tmetric.c
+END
+diary.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/139/trunk/diary.c
+END
+db_xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/95/trunk/db_xml.h
+END
+foaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/133/trunk/foaf.c
+END
+tmetric.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/68/trunk/tmetric.h
+END
+diary.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/86/trunk/diary.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/145/trunk/util.c
+END
+apache_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/mod_virgule/!svn/ver/16/trunk/apache_util.c
+END
+foaf.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/71/trunk/foaf.h
+END
+certs.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/136/trunk/certs.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/144/trunk/util.h
+END
+apache_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/mod_virgule/!svn/ver/16/trunk/apache_util.h
+END
+certs.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/128/trunk/certs.h
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/mod_virgule/!svn/ver/136/trunk/db.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/2/trunk/COPYING
+END
+eigen.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/102/trunk/eigen.c
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/mod_virgule/!svn/ver/38/trunk/db.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/140/trunk/Makefile
+END
+eigen.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/18/trunk/eigen.h
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/20/trunk/auth.c
+END
+acct_maint.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/mod_virgule/!svn/ver/142/trunk/acct_maint.c
+END
+site.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/144/trunk/site.c
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/16/trunk/auth.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/144/trunk/ChangeLog
+END
+acct_maint.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/mod_virgule/!svn/ver/123/trunk/acct_maint.h
+END
+rss_export.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/mod_virgule/!svn/ver/121/trunk/rss_export.c
+END
+site.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/128/trunk/site.h
+END
+proj.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/136/trunk/proj.c
+END
+rss_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/mod_virgule/!svn/ver/16/trunk/rss_export.h
+END
+proj.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/16/trunk/proj.h
+END
+req.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/136/trunk/req.c
+END
+req.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/136/trunk/req.h
+END
+schema.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/139/trunk/schema.c
+END
+wiki.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/16/trunk/wiki.c
+END
+schema.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/16/trunk/schema.h
+END
+xmlrpc-methods.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/mod_virgule/!svn/ver/26/trunk/xmlrpc-methods.c
+END
+wiki.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/mod_virgule/!svn/ver/16/trunk/wiki.h
+END
+xmlrpc-methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/mod_virgule/!svn/ver/2/trunk/xmlrpc-methods.h
+END
+net_flow.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/20/trunk/net_flow.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/134/trunk/private.h
+END
+aggregator.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/mod_virgule/!svn/ver/136/trunk/aggregator.c
+END
+net_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/16/trunk/net_flow.h
+END
+article.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/141/trunk/article.c
+END
+rating.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/136/trunk/rating.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/143/trunk/INSTALL
+END
+aggregator.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/mod_virgule/!svn/ver/43/trunk/aggregator.h
+END
+article.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/16/trunk/article.h
+END
+rating.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/69/trunk/rating.h
+END
+xmlrpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/121/trunk/xmlrpc.c
+END
+db_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/mod_virgule/!svn/ver/139/trunk/db_ops.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/97/trunk/buffer.c
+END
+xmlrpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/16/trunk/xmlrpc.h
+END
+db_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/18/trunk/db_ops.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/mod_virgule/!svn/ver/100/trunk/README
+END
+mod_virgule.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/mod_virgule/!svn/ver/140/trunk/mod_virgule.c
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/mod_virgule/!svn/ver/97/trunk/buffer.h
+END
+hashtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/mod_virgule/!svn/ver/127/trunk/hashtable.c
+END
+xml_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/mod_virgule/!svn/ver/28/trunk/xml_util.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/mod_virgule/!svn/ver/122/trunk/sample_db/site
+END
+certs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/certs.xml
+END
+mission.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/mission.xml
+END
+sbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mod_virgule/!svn/ver/122/trunk/sample_db/site/sbm.xml
+END
+recentlog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/recentlog.xml
+END
+trust-metric.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/trust-metric.xml
+END
+syndicate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/syndicate.xml
+END
+xmlrpc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/mod_virgule/!svn/ver/5/trunk/sample_db/site/xmlrpc.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/index.xml
+END
+code.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/code.xml
+END
+proj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/mod_virgule/!svn/ver/2/trunk/sample_db/site/proj.xml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/mod_virgule/!svn/ver/132/trunk/sample_db/templates
+END
+acct-diary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mod_virgule/!svn/ver/131/trunk/sample_db/templates/acct-diary.xml
+END
+acct-login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mod_virgule/!svn/ver/131/trunk/sample_db/templates/acct-login.xml
+END
+acct-info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mod_virgule/!svn/ver/131/trunk/sample_db/templates/acct-info.xml
+END
+article.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mod_virgule/!svn/ver/132/trunk/sample_db/templates/article.xml
+END
+proj-list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mod_virgule/!svn/ver/130/trunk/sample_db/templates/proj-list.xml
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mod_virgule/!svn/ver/109/trunk/sample_db/templates/default.xml
+END
+article-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mod_virgule/!svn/ver/132/trunk/sample_db/templates/article-post.xml
+END
+proj-desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mod_virgule/!svn/ver/130/trunk/sample_db/templates/proj-desc.xml
+END
+acct-profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mod_virgule/!svn/ver/131/trunk/sample_db/templates/acct-profile.xml
+END
+acct-articles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mod_virgule/!svn/ver/131/trunk/sample_db/templates/acct-articles.xml
+END

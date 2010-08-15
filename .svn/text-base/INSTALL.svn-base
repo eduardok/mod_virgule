@@ -1,0 +1,90 @@
+------------------------------------------------------------------------
+
+1. Install apache, glib, and libxml2 dev packages
+
+2. Uncomment appropriate makefile options for Apache APR and gcc
+
+3. Build mod_virgule, typing "make" should do it
+
+4. Move mod_virgule.so to your Apache modules directory
+
+5. Add module directive to your httpd.conf file:
+
+  LoadModule virgule_module modules/mod_virgule.so
+  
+6. Add VirguleDB and VirgulePass directives to httpd.conf:
+
+<VirtualHost 1.2.3.4:80>
+    ServerName mysite.com
+    DocumentRoot /var/www/mysite.com
+    ...
+    VirguleDB /var/www/mysite.com
+    VirgulePass "/images" "/css"
+</VirtualHost>
+
+7. Copy the content of /sample_db to your VirguleDB directory
+
+8. Make sure the VirguleDB directory is owned by and writable by the
+Apache user (e.g. httpd, nobody, or whatever is used on your distro).
+
+9. Restart apache
+
+10. Hit the site with a browser and see if it works
+
+11. Edit the site/config.xml file as desired for your site
+
+12. Edit the CSS, images, and XML templates as desired for your site
+
+Notes:
+
+You should be able to run two or more completely different mod_virgule sites
+on the same server. I have run as many as four sites on the same server with
+no problems. 
+
+Normally the Virgule directive go inside <VirtualHost> but you can try 
+using them in <Location> as well - this should work in theory at least.
+<Directory> probably will not work because mod_virgule needs to do
+translations - if you try it, please report your results. :)
+
+VirguleDb specifies the directory used by mod_virgule to keep its XML
+database. Normally, this is the same as the site's document root and the
+VirgulePass directive specifies any paths that need to be handled as
+static paths by Apache rather than dymanically by mod_virgule.
+
+If you run into problems or notice incompatibilities with the makefile
+on your distro, please post to the mod_virgule development mailing list.
+Also post any patches you come up with that fix the build on your distro.
+
+Here's a breakdown of what the directories in the sample_db are for:
+
+acct - account XML DB, one subdir per account
+articles - article XML DB, one subdir per article
+css - static css files used by the site's HTML
+data - Stores the line delimited Wiki intermap
+eigen - diary (blog) eigenvector trust metric cache
+images - static images used by the site's HTML
+proj - project XML DB, one subdir per project
+recent - XML DB of recent activity
+site - XML pages that make up the site ( /index.html = /site/index.xml )
+templates - XML templates for dynamic pages (e.g. profile, articles)
+tmetric - trust metric cache
+
+Admin functionality 
+
+There are several special URLs used to administer and maintain the mod_virgule
+site. These are group under the /admin/ URL, which should be password
+protected in your httpd.conf file for security. The first three admin URLs
+should be hit by a cronjob at regular intervals to keep things running. The
+last three URLs are intended to run manually by the site administrator only
+if needed.
+
+ /admin/crank-tmetric.html - should be hit by cronjob to update trust
+ /admin/crank-diaryrating.html - should be hit by cronjob to update ratings
+ /admin/crank-aggregator.html - should be hit by cronjob to update aggregator
+
+ /admin/articlemaint.html - rebuilds per-user article indices
+ /admin/clean-diaryratings.html - remove refs to deleted accounts
+ /admin/acctmaint.html - repairs damaged account profiles and trust certs
+ 
+
+
